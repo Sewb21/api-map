@@ -17,7 +17,7 @@ ApiMap provides a visual interface where teams can map API endpoints to UI compo
 ## Tech Stack
 
 - Ruby on Rails
-- PostgreSQL
+- SQLLite
 - Hotwire/Stimulus
 
 ---
